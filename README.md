@@ -8,9 +8,16 @@ Flutter 139
 * Merve Gürsel - Developer
 * İbrahim Altun - Developer
 # Ürün İsmi
+-- Hesaplasana --
 # Ürün Açıklaması
+Hesaplasana uygulamamız ile insanlar basit matematik işlemlerini hızlıca çözmesini sağlayacağız. Karanlık ve Aydınlık mod özelliği ile birlikte kullanıcı deneyimini arttırmayı hedefliyoruz.
 # Ürün Özellikleri
+* Basit matematik işlemlerini çözebilme.
+* Karanlık - Aydınlık mod özelliği.
 # Hedef Kitle
+* Öğrenciler
+* Market Sahipleri
+* OKEY oyuncuları
 # Product Backlog
 # Sprint 1
 * **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
