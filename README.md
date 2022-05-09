@@ -31,7 +31,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 * **Sprint Board Update**: Sprint board screenshotları:
 
 * **Ürün Durumu**: Ekran görüntüleri:
-* https://github.com/berkaytugrull/bootcamp/issues/2#issue-1230113870
+
+![a](https://user-images.githubusercontent.com/66042526/167478423-75ffcccf-8cf6-4c88-8871-1204e1489cd3.jpg)
+
 *
 * **Sprint Review**: 
 * Alınan kararlar: İletişim ve proje akışları aksaklıklar sonrasında belirlenmiş olup uygulamanın geliştirilmesi için araştırmalar yapılmıştır. Uygulamanını arayüzü için kullanıcı deneyimi arttırmak konusunda karar alınmıştır. Uygulamanın ilk çıktıları bir sonraki sprintte sunulacaktır.
