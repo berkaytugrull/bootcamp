@@ -38,12 +38,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 * **Sprint Review**: 
  Alınan kararlar: İletişim ve proje akışları aksaklıklar sonrasında belirlenmiş olup uygulamanın geliştirilmesi için araştırmalar yapılmıştır. Uygulamanını arayüzü için kullanıcı deneyimi arttırmak konusunda karar alınmıştır. Uygulamanın ilk çıktıları bir sonraki sprintte sunulacaktır.
 *  Sprint Review katılımcıları:
--  Berkay Tuğrul 
--  Merve Nur İregöz
--  Ceren Akkülah
+
+-- Berkay Tuğrul 
+-- Merve Nur İregöz
+-- Ceren Akkülah
   
 * **Sprint Retrospective**:
-- Projeye katılım ve iletişim sorunları üzerine çözümlere başvurulmuştur.
-- Teknik sorunlar üzerine kaybedilen zaman yüzünden profesyonel yardımlara başvurulmasına karar verilmiştir.
+-- Projeye katılım ve iletişim sorunları üzerine çözümlere başvurulmuştur.
+-- Teknik sorunlar üzerine kaybedilen zaman yüzünden profesyonel yardımlara başvurulmasına karar verilmiştir.
  
 * **Diğer notlar**:
