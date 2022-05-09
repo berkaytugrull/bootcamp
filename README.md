@@ -19,6 +19,9 @@ Hesaplasana uygulamamız ile insanlar basit matematik işlemlerini hızlıca ç�
 * Market Sahipleri
 * OKEY oyuncuları
 # Product Backlog
+
+[Miro Backlog Board]https://miro.com/app/board/uXjVO5uyr_c=/?share_link_id=651051709223
+
 # Sprint 1
 * **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
