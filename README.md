@@ -33,6 +33,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 * **Ürün Durumu**: Ekran görüntüleri:
 
+Ürün çıktıları bir sonraki sprintte sunulacaktır.
+
 *
 * **Sprint Review**: 
  Alınan kararlar: İletişim ve proje akışları aksaklıklar sonrasında belirlenmiş olup uygulamanın geliştirilmesi için araştırmalar yapılmıştır. Uygulamanını arayüzü için kullanıcı deneyimi arttırmak konusunda karar alınmıştır. Uygulamanın ilk çıktıları bir sonraki sprintte sunulacaktır.
