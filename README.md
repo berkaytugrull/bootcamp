@@ -39,8 +39,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 Ürün çıktıları bir sonraki sprintte sunulacaktır.
 
+* **Sprint İçinde tamamlanan puan** : 60 puan
+Uygulama fikri araştırmalarının beklenenden daha uzun sürmesi sonucu arayüz için ayırılacak vaktin kısıtlı olduğu anlaşılmış, bu görev bir sonraki sprinte aktarılmıştır.
+
 * **Sprint Review**: 
- Alınan kararlar: İletişim ve proje akışları aksaklıklar sonrasında belirlenmiş olup uygulamanın geliştirilmesi için araştırmalar yapılmıştır. Uygulamanını arayüzü için kullanıcı deneyimi arttırmak konusunda karar alınmıştır. Uygulamanın ilk çıktıları bir sonraki sprintte sunulacaktır.
+ Alınan kararlar: İletişim ve proje akışları aksaklıklar sonrasında belirlenmiş olup uygulamanın geliştirilmesi için araştırmalar yapılmıştır. Uygulamanın arayüzü için kullanıcı deneyimi arttırmak konusunda karar alınmıştır. Uygulamanın ilk çıktıları bir sonraki sprintte sunulacaktır.
 *  Sprint Review katılımcıları:
 
 -- Berkay Tuğrul 
