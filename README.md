@@ -41,7 +41,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 * **Sprint İçinde tamamlanan puan** : 60 puan
 
-Uygulama fikri araştırmalarının beklenenden daha uzun sürmesi sonucu arayüz için ayırılacak vaktin kısıtlı olduğu anlaşılmış, bu görev bir sonraki sprinte aktarılmıştır.![Burndown1](https://user-images.githubusercontent.com/104429180/167494144-44a9eb0e-03cf-4cc9-b848-71beb5f138b9.PNG)
+Uygulama fikri araştırmalarının beklenenden daha uzun sürmesi sonucu arayüz için ayırılacak vaktin kısıtlı olduğu anlaşılmış, bu görev bir sonraki sprinte aktarılmıştır.  ![Burndown1](https://user-images.githubusercontent.com/104429180/167494144-44a9eb0e-03cf-4cc9-b848-71beb5f138b9.PNG)
 
 
 * **Sprint Review**: 
