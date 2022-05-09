@@ -40,6 +40,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Ürün çıktıları bir sonraki sprintte sunulacaktır.
 
 * **Sprint İçinde tamamlanan puan** : 60 puan
+
 Uygulama fikri araştırmalarının beklenenden daha uzun sürmesi sonucu arayüz için ayırılacak vaktin kısıtlı olduğu anlaşılmış, bu görev bir sonraki sprinte aktarılmıştır.
 
 * **Sprint Review**: 
