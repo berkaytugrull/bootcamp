@@ -29,10 +29,9 @@ Hesaplasana uygulamamız ile insanlar basit matematik işlemlerini hızlıca ç�
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 * **Daily Scrum**: Daily Scrum toplantıları zaman tasarrufu açısından Slack üzerinden yapılacaktır. Toplantı örneği ReadMe kısmında tarafımızca paylaşılacaktır. 
 * **Sprint Board Update**: Sprint board screenshotları:
+![a](https://user-images.githubusercontent.com/66042526/167478423-75ffcccf-8cf6-4c88-8871-1204e1489cd3.jpg)
 
 * **Ürün Durumu**: Ekran görüntüleri:
-
-![a](https://user-images.githubusercontent.com/66042526/167478423-75ffcccf-8cf6-4c88-8871-1204e1489cd3.jpg)
 
 *
 * **Sprint Review**: 
