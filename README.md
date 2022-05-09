@@ -30,7 +30,8 @@ Hesaplasana uygulamamız ile insanlar basit matematik işlemlerini hızlıca ç�
 * **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-* **Daily Scrum**: Daily Scrum toplantıları zaman tasarrufu açısından Slack üzerinden yapılacaktır. Toplantı örneği ReadMe kısmında tarafımızca paylaşılacaktır. 
+* **Daily Scrum**: Daily Scrum toplantıları zaman tasarrufu açısından Slack üzerinden yapılacaktır. Toplantı örneği ReadMe kısmında tarafımızca paylaşılmıştır. [DailyScrumMeetingNotesSprint1.pdf](https://github.com/berkaytugrull/bootcamp/files/8654608/DailyScrumMeetingNotesSprint1.pdf)
+
 * **Sprint Board Update**: Sprint board screenshotları:
 ![a](https://user-images.githubusercontent.com/66042526/167478423-75ffcccf-8cf6-4c88-8871-1204e1489cd3.jpg)
 
