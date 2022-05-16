@@ -57,3 +57,5 @@ Uygulama fikri araştırmalarının beklenenden daha uzun sürmesi sonucu arayü
 -- Teknik sorunlar üzerine kaybedilen zaman yüzünden profesyonel yardımlara başvurulmasına karar verilmiştir.
  
 * **Diğer notlar**:
+
+# Sprint 2
