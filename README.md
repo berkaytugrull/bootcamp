@@ -66,3 +66,22 @@ Uygulama fikri araştırmalarının beklenenden daha uzun sürmesi sonucu arayü
 * **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+* **Daily Scrum**: Daily Scrum toplantıları zaman tasarrufu açısından Slack veya WhatsApp üzerinden yapılacaktır. Toplantı örneği ReadMe kısmında tarafımızca paylaşılacaktır. 
+
+* **Sprint Board Update**: Sprint board screenshotları:
+
+
+* **Ürün Durumu**: Ekran görüntüleri:
+
+
+
+* **Sprint İçinde tamamlanan puan** : 
+
+
+* **Sprint Review**: 
+
+  
+* **Sprint Retrospective**:
+
+ 
+* **Diğer notlar**:
