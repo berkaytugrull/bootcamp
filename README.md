@@ -72,6 +72,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 * **Sprint Board Update**: Sprint board screenshotları:
 ![Bootcamp template 12Mayıs](https://user-images.githubusercontent.com/104429180/169718176-7bce17f1-113f-4689-9241-ddc78e5a39d7.PNG)
 ![Bootcamp Template 19Mayıs](https://user-images.githubusercontent.com/104429180/169718194-da084527-72ab-4887-881e-d169665466af.PNG)
+![Bootcamp Template 21Mayıs](https://user-images.githubusercontent.com/104429180/169718662-de36a231-9e4e-4519-8ec4-427afe731e97.PNG)
 
 
 
@@ -81,13 +82,17 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 
-* **Sprint İçinde tamamlanan puan** : 
+* **Sprint İçinde tamamlanan puan** : 70 puan
 
 
 * **Sprint Review**: 
+*Alınan Kararlar*: Projeye Ceren Akkülah, Berkay Tuğrul ve Merve Nur İregöz olmak üzere 3 kişi devam edilecektir.
+Son anda Karanlık/Aydınlık moddaki hata ve butonlarda rakamların gözükmeyişi bir sonraki sprintte en acil şekilde ele alınacaktır.
 
+**Sprint Review Katılımcıları**: Merve Nur İregöz, Ceren Akkülah ve Berkay Tuğrul
   
 * **Sprint Retrospective**:
-
+Teknik sorunlarda vakit kaybını önlemek amacıyla uzman görüşü alınmıştır. 
+Android Studio hatası alındığında zaman zaman Visual Studio kullanılmıştır. 
  
 * **Diğer notlar**:
