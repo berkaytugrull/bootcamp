@@ -66,12 +66,18 @@ Uygulama fikri araştırmalarının beklenenden daha uzun sürmesi sonucu arayü
 * **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-* **Daily Scrum**: Daily Scrum toplantıları zaman tasarrufu açısından Slack veya WhatsApp üzerinden yapılacaktır. Toplantı örneği ReadMe kısmında tarafımızca paylaşılacaktır. 
+* **Daily Scrum**: Daily Scrum toplantıları zaman tasarrufu açısından Slack veya WhatsApp üzerinden yapılacaktır. Toplantı örneği ReadMe kısmında tarafımızca paylaşılmıştır. [DailyScrumMeeting2.pdf](https://github.com/berkaytugrull/bootcamp/files/8750371/DailyScrumMeeting2.pdf)
+
 
 * **Sprint Board Update**: Sprint board screenshotları:
+![Bootcamp template 12Mayıs](https://user-images.githubusercontent.com/104429180/169718176-7bce17f1-113f-4689-9241-ddc78e5a39d7.PNG)
+![Bootcamp Template 19Mayıs](https://user-images.githubusercontent.com/104429180/169718194-da084527-72ab-4887-881e-d169665466af.PNG)
+![Bootcamp Template 21Mayıs](https://user-images.githubusercontent.com/104429180/169718223-0913c423-7a9d-4b05-98de-779298ed142f.PNG)
 
 
 * **Ürün Durumu**: Ekran görüntüleri:
+
+![Hesaplasana](https://user-images.githubusercontent.com/104429180/169718015-954bac2d-cbc1-4dfc-baf4-6fcbfe46e0a9.jpeg)
 
 
 
