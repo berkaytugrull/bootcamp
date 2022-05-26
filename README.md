@@ -115,6 +115,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 * **Ürün Durumu**: Ekran görüntüleri:
 
+![Hesaplasana fixed](https://user-images.githubusercontent.com/104429180/170563805-1cfb0e7e-ed40-45e5-addb-af8f01a8977a.jpeg)
+
+
 
 
 
