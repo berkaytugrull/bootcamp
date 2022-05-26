@@ -65,7 +65,7 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
       height: MediaQuery.of(context).size.height * 0.1 * buttonHeight,
       color: buttonColor,
       child: TextButton(
-        child: Container(),
+        child: Text(buttonText),
         onPressed: () => buttonPressed(buttonText),
         style: TextButton.styleFrom(
           padding: const EdgeInsets.all(16.0),
@@ -73,7 +73,7 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
           textStyle: const TextStyle(
             fontSize: 30.0,
             fontWeight: FontWeight.normal,
-            color: Colors.white,
+            color: Colors.black,
           ),
         ),
       ),
