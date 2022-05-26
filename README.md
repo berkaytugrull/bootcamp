@@ -108,6 +108,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 * **Sprint Board Update**: Sprint board screenshotları:
+![Bootcamp template 26Mayıs](https://user-images.githubusercontent.com/104429180/170565131-8b58ff8d-0f2a-4c25-af6f-7e55822e16fc.PNG)
+
 
 
 
