@@ -14,7 +14,7 @@ class Calculator extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Hesaplasana',
       theme: ThemeData(backgroundColor: Colors.black87),
-      home: SimpleCalculator(),
+      home: const SimpleCalculator(),
     );
   }
 }
