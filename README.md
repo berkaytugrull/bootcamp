@@ -96,3 +96,37 @@ Teknik sorunlarda vakit kaybını önlemek amacıyla uzman görüşü alınmış
 Android Studio hatası alındığında zaman zaman Visual Studio kullanılmıştır. 
  
 * **Diğer notlar**:
+
+# Sprint 3
+* **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+* **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+* **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+* **Daily Scrum**: Daily Scrum toplantıları zaman tasarrufu açısından Slack veya WhatsApp üzerinden yapılacaktır. Toplantı örneği ReadMe kısmında tarafımızca paylaşılacaktır.
+
+
+* **Sprint Board Update**: Sprint board screenshotları:
+
+
+
+
+* **Ürün Durumu**: Ekran görüntüleri:
+
+
+
+
+* **Sprint İçinde tamamlanan puan** : 
+
+
+* **Sprint Review**: 
+*Alınan Kararlar*: 
+
+**Sprint Review Katılımcıları**: 
+  
+* **Sprint Retrospective**:
+
+ 
+* **Diğer notlar**:
