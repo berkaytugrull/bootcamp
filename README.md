@@ -5,8 +5,7 @@ Flutter 139
 * Berkay Tuğrul - Product Owner
 * Ceren Akkülah - Scrum Master
 * Merve Nur İregöz - Developer
-* Merve Gürsel - Developer
-* İbrahim Altun - Developer
+
 # Ürün İsmi
 -- Hesaplasana --
 # Ürün Açıklaması
