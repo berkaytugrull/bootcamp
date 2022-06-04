@@ -18,12 +18,12 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
   buttonPressed(String buttonText) {
     // tüm aritmetik mantıkları içerir
     setState(() {
-      if (buttonText == "C") {
+      if (buttonText == "Tümünü Sil") {
         denklem = "0";
         sonuc = "0";
         denklemYaziBoyutu = 38.0;
         sonucYaziBoyutu = 68.0;
-      } else if (buttonText == "⌫") {
+      } else if (buttonText == "Geri") {
         denklemYaziBoyutu = 48.0;
         sonucYaziBoyutu = 68.0;
         denklem = denklem.substring(0, denklem.length - 1);
@@ -119,11 +119,11 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
                   children: [
                     TableRow(children: [
                       buildButton(
-                        "C",
+                        "Tümünü Sil",
                         1,
                         Colors.grey.shade900,
                       ),
-                      buildButton("⌫", 1, Colors.grey.shade800),
+                      buildButton("Geri", 1, Colors.grey.shade800),
                       buildButton("÷", 1, Colors.grey.shade800),
                     ]),
                     TableRow(children: [
