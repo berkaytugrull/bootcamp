@@ -104,11 +104,14 @@ Android Studio hatası alındığında zaman zaman Visual Studio kullanılmışt
 * **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-* **Daily Scrum**: Daily Scrum toplantıları zaman tasarrufu açısından Slack veya WhatsApp üzerinden yapılacaktır. Toplantı örneği ReadMe kısmında tarafımızca paylaşılacaktır.
+* **Daily Scrum**: Daily Scrum toplantıları zaman tasarrufu açısından Slack veya WhatsApp üzerinden yapılacaktır. Toplantı örneği ReadMe kısmında tarafımızca paylaşılmıştır.[DailyScrumSprint3.pdf](https://github.com/berkaytugrull/bootcamp/files/8838575/DailyScrumSprint3.pdf)
+
 
 
 * **Sprint Board Update**: Sprint board screenshotları:
 ![Bootcamp template 26Mayıs](https://user-images.githubusercontent.com/104429180/170565131-8b58ff8d-0f2a-4c25-af6f-7e55822e16fc.PNG)
+![Bootcamp template 3Haziran](https://user-images.githubusercontent.com/104429180/172022884-d335be48-c8f3-489c-864b-b04a9386ad1d.png)
+![Bootcamp template 4Haziran](https://user-images.githubusercontent.com/104429180/172022890-63eb28d9-9e22-43a9-bbb0-ea3d70c23773.png)
 
 
 
@@ -117,20 +120,21 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 * **Ürün Durumu**: Ekran görüntüleri:
 
 ![Hesaplasana fixed](https://user-images.githubusercontent.com/104429180/170563805-1cfb0e7e-ed40-45e5-addb-af8f01a8977a.jpeg)
+![gerçek ekran](https://user-images.githubusercontent.com/104429180/172022981-47481618-0972-44dd-a4fc-d4624d454faa.PNG)
 
 
 
 
 
-* **Sprint İçinde tamamlanan puan** : 
+* **Sprint İçinde tamamlanan puan** :  95 puan
 
 
 * **Sprint Review**: 
-*Alınan Kararlar*: 
+*Alınan Kararlar*: Tuşlardaki "C" ve "⌫" tuşları "Tümünü Sil" ve "Geri" olarak değiştirilmiş ve işlevleri aynı kalmıştır.
 
-**Sprint Review Katılımcıları**: 
+**Sprint Review Katılımcıları**: Merve Nur İregöz, Ceren ve Berkay
   
-* **Sprint Retrospective**:
+* **Sprint Retrospective**: 
 
  
 * **Diğer notlar**:
