@@ -134,7 +134,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 **Sprint Review Katılımcıları**: Merve Nur İregöz, Ceren ve Berkay
   
-* **Sprint Retrospective**: 
+* **Sprint Retrospective**: İşlem geçmişi, okey oyuncuları için özel tuş takımı gibi storyler ekip üyelerinin sınav haftaları dolayısıyla tamamlanamamıştır. 
 
  
 * **Diğer notlar**:
