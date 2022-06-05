@@ -9,10 +9,10 @@ Flutter 139
 # Ürün İsmi
 -- Hesaplasana --
 # Ürün Açıklaması
-Hesaplasana uygulamamız ile insanlar basit matematik işlemlerini hızlıca çözmesini sağlayacağız. Karanlık ve Aydınlık mod özelliği ile birlikte kullanıcı deneyimini arttırmayı hedefliyoruz.
+Hesaplasana uygulamamız ile insanlar basit matematik işlemlerini hızlıca çözmesini sağlayacağız. 
 # Ürün Özellikleri
 * Basit matematik işlemlerini çözebilme.
-* Karanlık - Aydınlık mod özelliği.
+
 # Hedef Kitle
 * Öğrenciler
 * Market Sahipleri
